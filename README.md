@@ -1,11 +1,11 @@
-# -ADXXXXX-Template
+# -adrszbb-GPIO-expansion-board
 
-## ここに見出し
+## ラズベリーパイ専用GPIOスタック拡張ボード
 
-![タイトル画像のURLを右のカッコに]()
+![タイトル画像のURLを右のカッコに](https://cdn.shopify.com/s/files/1/0512/2264/2842/files/6c6b0c7f50378195fa575a0c0c0f4001.jpg)
 
-「●●●●●」はほにゃららするためのなんちゃらボード。  
-この製品を使用する事でもにょもにょがぺけぺけできる。  
+「ゼロワン」シリーズ等のラズベリーパイ拡張基板を複数接続するためのバックプレーンボード。   
+この製品を使用する事で1台のラズベリーパイに最大5枚までの拡張基板を同時接続可能。 外部DC電源供給にも対応しています。
 
 <!--
 改行する場合、文末に半角スペース2個を置く
@@ -47,52 +47,11 @@ exp.
 各情報フォルダにMarkdown形式に起こし"Readme.md"という名前で保存すること
 -->
 
-# [製品の詳細はこちら](http://bit-trade-one.co.jp/) 
-
-## [マニュアル](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
-
-## [アプリケーションソフトウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
-
-## [ファームウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
+# [HPリンク](https://bit-trade-one.co.jp/adrszbb/) 
 
 ## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
 
-### [ライブラリ](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Library)  
+### [基板図](https://github.com/bit-trade-one/adrszbb-GPIO-expansion-board/blob/master/board/ADRSZBB_v1_dimensions.pdf)
 
-### [サンプルコード](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Sample)  
+### [回路図](https://github.com/bit-trade-one/adrszbb-GPIO-expansion-board/blob/master/Schematics/pHAT_bb_sch.pdf)
 
-### [アプリケーションソース](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App_source/)  
-
-### [ファームウェアソース](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware_source/)
-
-### [基板図](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/Dimensions/-ADXXXXX-Template-Dimensions.pdf)
-
-### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
-
-### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
-
-
-## 作例
-
-[BTO公式]()  
-[Twitter作例1]()  
-[Twitter作例2]()  
-[ブログ作例1]()  
-[ブログ作例1]()  
-
-## 雑誌掲載情報
-
-[ラズパイマガジンXX年Y月号]()  
-[Pc Watch]()
-
-## 製品仕様
-    【対応OS】Windows7以降
-    【サイズ】W16×D20×H5mm
-    【重量】約1g
-    【入力点数】12(デジタル)
-    【コネクタ】USBマイクロB
-    【電源】5V (USBマイクロB)
-    【使用温度】0 ～ 40℃（結露なきこと）
-    【保証期間】 1年間
-    【付属品】保証書 1部
-    【生産国】Made in Japan
