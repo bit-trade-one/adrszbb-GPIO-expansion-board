@@ -49,7 +49,7 @@ exp.
 
 # [HPリンク](https://bit-trade-one.co.jp/adrszbb/) 
 
-## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
+## [Q&A](FAQ.md)
 
 ### [基板図](https://github.com/bit-trade-one/adrszbb-GPIO-expansion-board/blob/master/board/ADRSZBB_v1_dimensions.pdf)
 
