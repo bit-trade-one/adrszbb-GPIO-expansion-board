@@ -55,3 +55,15 @@ exp.
 
 ### [回路図](https://github.com/bit-trade-one/adrszbb-GPIO-expansion-board/blob/master/Schematics/pHAT_bb_sch.pdf)
 
+### 基本仕様      
+【対応機種】推奨機種：Raspberry Pi Zero WH /  Raspberry Pi 3B  
+対応可能機種：Raspberry Pi Zero v1.3 / W  (v1.3,WにはGPIOピンヘッダのはんだ付けが必要です)　Raspberry Pi 2/3B+ (再起動スイッチは使えません)  
+【入出力】GPIOピン x5 / GPIOコネクタ（Raspberry Pi用）x1 /  Groveコネクタ x2 (I2C/UART共にx1)  
+【本体寸法】152 x 127 x 13(mm) (突起部含めず)  
+【本体重量】約100g  
+【電源】Raspberry Pi より給電DCコネクタ（内径2.1mm/外径5.5mmセンタープラス）:5V (3A推奨)  
+ ※電源は排他となります。給電はDCもしくはUSBから片方のみをお使いください。  
+【付属品】 保証書 x1 スペーサ x8(Raspberry Pi用)  
+【生産国】Made in Japan  
+【保証期間】お買い上げから1年間     
+
