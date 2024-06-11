@@ -60,7 +60,9 @@ exp.
 
 ### 基本仕様      
 【対応機種】推奨機種：Raspberry Pi Zero WH /  Raspberry Pi 3B  
-対応可能機種：Raspberry Pi Zero v1.3 / W  (v1.3,WにはGPIOピンヘッダのはんだ付けが必要です)　Raspberry Pi 2/3B+ (再起動スイッチは使えません)  
+対応可能機種：Raspberry Pi Zero v1.3 / W / Zero 2 W(v1.3, W, Zero 2 WにはGPIOピンヘッダのはんだ付けが必要です)　  
+  Raspberry Pi 2 /3B+ / 5 (再起動スイッチは使えません)   
+  Raspberry Pi Zero 2 W
 【入出力】GPIOピン x5 / GPIOコネクタ（Raspberry Pi用）x1 /  Groveコネクタ x2 (I2C/UART共にx1)  
 【本体寸法】152 x 127 x 13(mm) (突起部含めず)  
 【本体重量】約100g  
